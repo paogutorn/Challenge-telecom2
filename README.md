@@ -1,8 +1,4 @@
-Aquí tienes una **versión más corta y clara del README**, manteniendo lo esencial para GitHub.
-
----
-
-# 📊 Análisis Predictivo de Churn en Telecomunicaciones
+# Análisis Predictivo de Churn en Telecomunicaciones
 
 ## 📌 Descripción del Proyecto
 
